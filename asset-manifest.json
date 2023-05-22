@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TouishTranslator/static/css/main.2c82db5e.css",
+    "main.js": "/TouishTranslator/static/js/main.a2045889.js",
+    "static/js/787.71e672d5.chunk.js": "/TouishTranslator/static/js/787.71e672d5.chunk.js",
+    "index.html": "/TouishTranslator/index.html",
+    "main.2c82db5e.css.map": "/TouishTranslator/static/css/main.2c82db5e.css.map",
+    "main.a2045889.js.map": "/TouishTranslator/static/js/main.a2045889.js.map",
+    "787.71e672d5.chunk.js.map": "/TouishTranslator/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c82db5e.css",
+    "static/js/main.a2045889.js"
+  ]
+}
